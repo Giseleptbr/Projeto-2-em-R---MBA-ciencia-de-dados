@@ -1,5 +1,8 @@
 # Projeto-2-em-R---MBA-ciencia-de-dados
-Segundo projeto feito em linguagem R
+
+Segundo projeto feito em linguagem R:
+
+
 Uma empresa que trabalha com vendas em um e-commerce deseja
 estudar quais características (variáveis) dos seus clientes que impactam no
 consumo, ou seja, as variáveis que têm relação ao quanto o cliente consome
